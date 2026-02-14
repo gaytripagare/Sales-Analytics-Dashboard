@@ -1,5 +1,5 @@
-Sales Analytics Dashboard
-📌 Project Overview
+#Sales Analytics Dashboard
+#📌 Project Overview
 
 An interactive Sales Analytics Dashboard built using Power BI to analyze revenue trends, regional performance, customer distribution, and category insights.
 
